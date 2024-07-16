@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Hossam Mahmoud
+- - 🤞  , i work at network and system Adminstarion (ccna , ccnp encore , (BGP , MPLS) , windows server 2022 , linux admin I , II ,bash scripting)
+- 👀 I’m interested in Devops 
+- 🌱 I’m currently learning Devops and Automation
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me (email: hossamelabayati@gmail.com)
+- 😄 Pronouns: he , she , it 😂😂
+- ⚡ attractive fact : I am Barcelona and Alahaly fan 💖
+
+<!---
+Hossam22elabayati/Hossam22elabayati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
