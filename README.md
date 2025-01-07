@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Devops and Automation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (email: hossamelabayati@gmail.com)
-- 😄 Pronouns: he , she , it 😂😂
 - ⚡ attractive fact : I am Barcelona and Alahaly fan 💖
 
 <!---
