@@ -3,7 +3,6 @@
 - 👀 I’m interested in Devops 
 - 🌱 I’m currently learning Devops and Automation
 - 📫 How to reach me (email: hossamelabayati@gmail.com)
-- ⚡ attractive fact : I am Barcelona and Alahaly fan 💖
 
 <!---
 Hossam22elabayati/Hossam22elabayati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
